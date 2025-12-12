@@ -1,4 +1,4 @@
-# 👋 Bonjour ! Je suis **Adam DECLOITRE**
+# 🖥️ **Adam DECLOITRE**
 
 Passionné d'informatique, de réseaux et de bidouillage.  
 Voici une courte présentation de mon compte et de ce que tu peux y trouver.
